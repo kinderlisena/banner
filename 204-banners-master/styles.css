@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+
+.sonic{
+    transition: 2s;
+}
+
+.banner img{
+    width: 100%;
+}
